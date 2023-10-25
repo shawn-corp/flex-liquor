@@ -1,0 +1,62 @@
+body{
+    margin: 0px;
+    background-image: url(images/flex2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+main{
+    margin: 20px;
+    color: grey;
+    border: #ffffff;
+    
+}
+
+h1{
+    text-align: center;
+    color: #ffffff;
+}
+
+h3{
+    text-align: center;
+    text-decoration: underline;
+    font-family: font-family 'Dancing Script', cursive;
+    color: #ffffff;
+}
+
+/* The navbar container */
+.navbar .ul {
+    list-style-type: none;
+    background-color: #333;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+  
+  /* Navbar links */
+  .navbar a {
+    display: block;
+    color: #ffffff;
+    text-align: right;
+    padding: 15px;
+    text-decoration: none;
+  }
+  
+  /* Links - change color on hover */
+  .navbar a:hover {
+    background-color: gray;
+  }
+
+.navbar a{
+  text-align: center;
+}
+
+h4{
+  text-align: center;
+}
+
+.hotbar{
+  text-align: center;
+}
